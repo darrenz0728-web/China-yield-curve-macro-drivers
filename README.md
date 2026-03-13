@@ -1,7 +1,7 @@
 # China Government Bond Yield Curve: Macro Drivers Analysis
 
-**Author**: Darren Zhao | Duke University, M.S. Quantitative Economics  
-**Advisor**: Prof. Lawrence Kreicher | 2025.12 – Present
+**Author**: Darren Zhao | Duke University, Master of Art in Economics  
+**Advisor**: Prof. Lawrence Kreicher | 2025.12 – 2026.03
 
 ---
 
